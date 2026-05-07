@@ -1,8 +1,4 @@
-# DTMator
-The OpenGF-R dataset
-![Image](OpenGF-R.png)
+# SatDTM
 
-DTM Estimation 
-![Image](DTMator.png)
 
 Coming soon...
